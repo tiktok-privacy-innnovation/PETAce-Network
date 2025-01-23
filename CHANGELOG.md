@@ -14,3 +14,7 @@ No update.
 ## Version 0.3.0
 
 - Added agent-assisted network based on gRPC.
+
+## Version 0.4.0
+
+- No update.
